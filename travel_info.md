@@ -10,11 +10,15 @@
 ![Alt text](./immagini/kex.png)
 
 ## 14-3-17 **CAMPER**:
+
  - Opzione A
 ![Alt text](./immagini/a.png)
 
  - Opzione B
 ![Alt text](./immagini/b.png)
+
+ - Opzione C
+ ![Alt text](./immagini/c.png)
 
 
 ## 22-3-17 **AIRPLANE**: REYKJAVIK - BERLIN || 6:10 - 10:45 || 3YYF0K ||  WOWAIR
