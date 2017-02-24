@@ -28,3 +28,10 @@
 ## 27-3-17 **AIRPLANE**: BERLIN - TURIN || 21:15 - 22:55 || E9EZ6A || BLUEAIR
  - **Fare il check-in!**
  - Nessun documento
+
+
+## MAPPE:
+
+ - KUKU map
+ - [Mappa parcheggi legali](https://www.google.com/maps/d/u/0/embed?mid=1wk_t105qo4BYqaBL7xTcLUz5uXQ&hl=en&ll=64.97646224919059%2C-19.02274675000001&z=7)
+
